@@ -5,5 +5,9 @@ A new Flutter project.
 ## Widget basic
 - scaffold
 - AppBar
+  - leading
+  - actions
+- Icon
+- sizedBox
 
 
