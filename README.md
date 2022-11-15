@@ -1,15 +1,19 @@
 # fic_widget_basic
 
-A new Flutter project.
+Belajar basic widget di flutter
 
 ## Widget basic
 - scaffold
 - AppBar
   - backgroundColor
-  - elevation : berfungsi untuk menambahkan shadow di appbar
+  - elevation
   - leading
   - actions
 - Icon
 - sizedBox
+- container
+  - decoration
+  - margin
+  - padding
 
 
